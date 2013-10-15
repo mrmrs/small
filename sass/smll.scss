@@ -1,0 +1,62 @@
+/* ==========================================================================
+   SMLL
+   ========================================================================== */
+
+/*
+   Queries
+   ========================================================================== */
+
+
+@media screen and (max-width: 18em) {
+  body { font-size: 14px; }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  ul,
+  ol { list-style-type: none; }
+
+  ul,
+  ol,
+  li { margin-left: 0; padding-left: 0; }
+  dt { font-weight: bold; }
+  dd { margin-left: 0; margin-bottom: .5rem; }
+
+  p { line-height: 1.6; }
+  code, pre, form { width: 100%; overflow-x: scroll; }
+
+}
+
+@media screen and (max-width: 10em) {
+  body { font-size: 12px; }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  ul,
+  ol { list-style-type: none; }
+
+  ul,
+  ol,
+  li { margin-left: 0; padding-left: 0; }
+  dt { font-weight: bold; }
+  dd { margin-left: 0; margin-bottom: .5rem; }
+
+  p { line-height: 1.6; }
+  code, pre, form { width: 100%; overflow-x: scroll; }
+
+}
