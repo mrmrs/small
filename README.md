@@ -1,6 +1,10 @@
 # SMLL
 
 CSS for small devices.
+Who knows how small devices will get? Probably pretty small.
+
+Future-proof your site against the impending wave of
+super small screen sizes by adding this tiny little micro-framework that will be sure to keep your line-lenghts goldilocks style. You know, just right even when people are trying to read their emails on something smaller than their phone. Because people.
 
 
 # Author
